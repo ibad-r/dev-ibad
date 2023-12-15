@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @dev-ibad
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning c++ n web-development
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me uibad0642@gmail.comn
 
 <!---
